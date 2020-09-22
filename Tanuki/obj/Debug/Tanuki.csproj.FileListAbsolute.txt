@@ -1,0 +1,53 @@
+E:\DoAn\DotNet\Tanuki\Tanuki\bin\Debug\Tanuki.exe.config
+E:\DoAn\DotNet\Tanuki\Tanuki\bin\Debug\Tanuki.exe
+E:\DoAn\DotNet\Tanuki\Tanuki\bin\Debug\Tanuki.pdb
+E:\DoAn\DotNet\Tanuki\Tanuki\obj\Debug\Tanuki.csprojResolveAssemblyReference.cache
+E:\DoAn\DotNet\Tanuki\Tanuki\obj\Debug\Tanuki.Properties.Resources.resources
+E:\DoAn\DotNet\Tanuki\Tanuki\obj\Debug\Tanuki.csproj.GenerateResource.Cache
+E:\DoAn\DotNet\Tanuki\Tanuki\obj\Debug\Tanuki.exe
+E:\DoAn\DotNet\Tanuki\Tanuki\obj\Debug\Tanuki.pdb
+E:\DoAn\DotNet\Tanuki\Tanuki\obj\Debug\Tanuki.Login.resources
+E:\DoAn\DotNet\Tanuki\Tanuki\obj\Debug\Tanuki.Menu.resources
+E:\DoAn\DotNet\Tanuki\Tanuki\obj\Debug\Tanuki.WordTime.resources
+E:\DoAn\DotNet\Tanuki\Tanuki\obj\Debug\Tanuki.Sale.resources
+E:\DoAn\DotNet\Tanuki\Tanuki\obj\Debug\Tanuki.StockList.resources
+E:\DoAn\DotNet\Tanuki\Tanuki\obj\Debug\Tanuki.Employee.resources
+E:\DoAn\DotNet\Tanuki\Tanuki\obj\Debug\Tanuki.Customers.resources
+E:\DoAn\DotNet\Tanuki\Tanuki\obj\Debug\Tanuki.HoaDon.resources
+E:\DoAn\DotNet\Tanuki\Tanuki\obj\Debug\Tanuki.CTHoaDon.resources
+C:\Users\Admin\Desktop\Tanuki\Tanuki\bin\Debug\Tanuki.exe.config
+C:\Users\Admin\Desktop\Tanuki\Tanuki\obj\Debug\Tanuki.exe
+C:\Users\Admin\Desktop\Tanuki\Tanuki\obj\Debug\Tanuki.pdb
+C:\Users\Admin\Desktop\Tanuki\Tanuki\bin\Debug\Tanuki.exe
+C:\Users\Admin\Desktop\Tanuki\Tanuki\bin\Debug\Tanuki.pdb
+C:\Users\Admin\Desktop\Tanuki\Tanuki\obj\Debug\Tanuki.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\Tanuki\Tanuki\obj\Debug\Tanuki.CTHoaDon.resources
+C:\Users\Admin\Desktop\Tanuki\Tanuki\obj\Debug\Tanuki.Customers.resources
+C:\Users\Admin\Desktop\Tanuki\Tanuki\obj\Debug\Tanuki.Employee.resources
+C:\Users\Admin\Desktop\Tanuki\Tanuki\obj\Debug\Tanuki.Login.resources
+C:\Users\Admin\Desktop\Tanuki\Tanuki\obj\Debug\Tanuki.Menu.resources
+C:\Users\Admin\Desktop\Tanuki\Tanuki\obj\Debug\Tanuki.Sale.resources
+C:\Users\Admin\Desktop\Tanuki\Tanuki\obj\Debug\Tanuki.StockList.resources
+C:\Users\Admin\Desktop\Tanuki\Tanuki\obj\Debug\Tanuki.HoaDon.resources
+C:\Users\Admin\Desktop\Tanuki\Tanuki\obj\Debug\Tanuki.Properties.Resources.resources
+C:\Users\Admin\Desktop\Tanuki\Tanuki\obj\Debug\Tanuki.WordTime.resources
+C:\Users\Admin\Desktop\Tanuki\Tanuki\obj\Debug\Tanuki.csproj.GenerateResource.Cache
+C:\Users\Admin\Desktop\Tanuki\Tanuki\obj\Debug\Tanuki.RPHoaDon.resources
+C:\Users\Admin\Desktop\Tanuki\Tanuki\obj\Debug\TimeInOut.Time.resources
+E:\file usb\New folder\Tanuki\Tanuki\obj\Debug\Tanuki.csprojAssemblyReference.cache
+E:\file usb\New folder\Tanuki\Tanuki\obj\Debug\Tanuki.CTHoaDon.resources
+E:\file usb\New folder\Tanuki\Tanuki\obj\Debug\Tanuki.Customers.resources
+E:\file usb\New folder\Tanuki\Tanuki\obj\Debug\Tanuki.Employee.resources
+E:\file usb\New folder\Tanuki\Tanuki\obj\Debug\Tanuki.Login.resources
+E:\file usb\New folder\Tanuki\Tanuki\obj\Debug\Tanuki.Menu.resources
+E:\file usb\New folder\Tanuki\Tanuki\obj\Debug\Tanuki.Sale.resources
+E:\file usb\New folder\Tanuki\Tanuki\obj\Debug\Tanuki.StockList.resources
+E:\file usb\New folder\Tanuki\Tanuki\obj\Debug\Tanuki.HoaDon.resources
+E:\file usb\New folder\Tanuki\Tanuki\obj\Debug\TimeInOut.Time.resources
+E:\file usb\New folder\Tanuki\Tanuki\obj\Debug\Tanuki.Properties.Resources.resources
+E:\file usb\New folder\Tanuki\Tanuki\obj\Debug\Tanuki.WordTime.resources
+E:\file usb\New folder\Tanuki\Tanuki\obj\Debug\Tanuki.RPHoaDon.resources
+E:\file usb\New folder\Tanuki\Tanuki\obj\Debug\Tanuki.csproj.GenerateResource.cache
+E:\file usb\New folder\Tanuki\Tanuki\obj\Debug\Tanuki.csproj.CoreCompileInputs.cache
+E:\file usb\New folder\Tanuki\Tanuki\obj\Debug\Tanuki.exe
+E:\file usb\New folder\Tanuki\Tanuki\obj\Debug\Tanuki.pdb
